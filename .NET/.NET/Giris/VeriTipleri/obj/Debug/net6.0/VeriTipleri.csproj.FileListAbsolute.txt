@@ -1,0 +1,15 @@
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\bin\Debug\net6.0\VeriTipleri.exe
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\bin\Debug\net6.0\VeriTipleri.deps.json
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\bin\Debug\net6.0\VeriTipleri.runtimeconfig.json
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\bin\Debug\net6.0\VeriTipleri.dll
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\bin\Debug\net6.0\VeriTipleri.pdb
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\obj\Debug\net6.0\VeriTipleri.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\obj\Debug\net6.0\VeriTipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\obj\Debug\net6.0\VeriTipleri.AssemblyInfoInputs.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\obj\Debug\net6.0\VeriTipleri.AssemblyInfo.cs
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\obj\Debug\net6.0\VeriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\obj\Debug\net6.0\VeriTipleri.dll
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\obj\Debug\net6.0\refint\VeriTipleri.dll
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\obj\Debug\net6.0\VeriTipleri.pdb
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\obj\Debug\net6.0\VeriTipleri.genruntimeconfig.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\Giris\VeriTipleri\obj\Debug\net6.0\ref\VeriTipleri.dll

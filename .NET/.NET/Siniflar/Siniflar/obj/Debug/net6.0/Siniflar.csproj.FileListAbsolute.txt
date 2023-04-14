@@ -1,0 +1,15 @@
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\obj\Debug\net6.0\Siniflar.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\obj\Debug\net6.0\Siniflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\obj\Debug\net6.0\Siniflar.AssemblyInfoInputs.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\obj\Debug\net6.0\Siniflar.AssemblyInfo.cs
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\obj\Debug\net6.0\Siniflar.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\bin\Debug\net6.0\Siniflar.exe
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\bin\Debug\net6.0\Siniflar.deps.json
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\bin\Debug\net6.0\Siniflar.runtimeconfig.json
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\bin\Debug\net6.0\Siniflar.dll
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\bin\Debug\net6.0\Siniflar.pdb
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\obj\Debug\net6.0\Siniflar.dll
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\obj\Debug\net6.0\refint\Siniflar.dll
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\obj\Debug\net6.0\Siniflar.pdb
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\obj\Debug\net6.0\Siniflar.genruntimeconfig.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\Siniflar\Siniflar\obj\Debug\net6.0\ref\Siniflar.dll

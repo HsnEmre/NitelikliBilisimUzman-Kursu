@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MFramework.Services.FakeData/1.0.21": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MFramework.Services.FakeData.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MFramework.Services.FakeData.dll": {}
+        }
+      },
+      "Matematik/2.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Matematik.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Matematik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MFramework.Services.FakeData/1.0.21": {
+      "sha512": "JSR2uq9dAVDvNMP9NbkVCtYHtHNzE7o6Da4b333yJq5fye+GRjyARvy3PUz1/kOE38ScSWY0YklkHewJWHt2Pw==",
+      "type": "package",
+      "path": "mframework.services.fakedata/1.0.21",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/MFramework.Services.FakeData.dll",
+        "mframework.services.fakedata.1.0.21.nupkg.sha512",
+        "mframework.services.fakedata.nuspec"
+      ]
+    },
+    "Matematik/2.0.0": {
+      "type": "project",
+      "path": "../Matematik/Matematik.csproj",
+      "msbuildProject": "../Matematik/Matematik.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "MFramework.Services.FakeData >= 1.0.21",
+      "Matematik >= 2.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\EGITMEN\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Z36-Gunduz\\Murat\\Winforms\\ClassLibrarySample\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Z36-Gunduz\\Murat\\Winforms\\ClassLibrarySample\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\EGITMEN\\.nuget\\packages\\",
+      "outputPath": "C:\\Z36-Gunduz\\Murat\\Winforms\\ClassLibrarySample\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\EGITMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\EGITMEN\\Documents\\nugets": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Z36-Gunduz\\Murat\\Winforms\\ClassLibrarySample\\Matematik\\Matematik.csproj": {
+              "projectPath": "C:\\Z36-Gunduz\\Murat\\Winforms\\ClassLibrarySample\\Matematik\\Matematik.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "MFramework.Services.FakeData": {
+            "target": "Package",
+            "version": "[1.0.21, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

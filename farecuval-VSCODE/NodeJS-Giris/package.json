@@ -1,0 +1,16 @@
+{
+  "name": "node.jsgiris",
+  "version": "1.0.0",
+  "description": "node.js giriş alıştırmaları yaptığımız dosya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ömer Halköver",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "superheroes": "^3.0.0"
+  }
+}

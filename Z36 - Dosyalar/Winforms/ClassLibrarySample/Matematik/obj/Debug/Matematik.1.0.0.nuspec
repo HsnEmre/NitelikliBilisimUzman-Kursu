@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Matematik</id>
+    <version>1.0.0</version>
+    <title>Matematik işlemleri</title>
+    <authors>muratbaseren</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Z36-Gunduz\Murat\Winforms\ClassLibrarySample\Matematik\bin\Debug\net6.0\Matematik.dll" target="lib\net6.0\Matematik.dll" />
+  </files>
+</package>

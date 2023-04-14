@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>jQuery Örnekler</title>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS v5.2.1 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+<style>
+    .req::placeholder
+{
+    color:red;
+}
+</style>
+
+    
+</head>
+
+<body>
+  
+    <div class ="container">
+        <div class="row">
+
+            <h1>İletişim Formu</h1>
+            <input type="text" name="" id="txtAd">
+            <input type="text" name="" id="txtSoyad">
+            <input type="text" name="" id="txtEmail">
+            <textarea name="" id="txtMesaj" cols="30" rows="5"></textarea>
+            <label class="form-control">Kalan Karakter : <span id="spanKalanKarakter">100</span></label>
+            <button id="btnGonder" disabled="false"> Gönder</button>
+
+        </div>
+    </div>
+
+  <!-- Bootstrap JavaScript Libraries -->
+
+  <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+    integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous">
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.min.js"
+    integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz" crossorigin="anonymous">
+  </script>
+
+  <script type="text/javascript">
+    //jQuery komutları kullanarak sayfadaki tüm input elementlerine
+    //form -control css classı ekleyelim
+    
+    $("input").addClass("form-control");
+
+    //email girilen inputun içerisine kullanıcıya yönlendirecek 1 yazı ekleyin
+    //"isim@domain.com şeklinde olmalıdır"
+
+    $("#txtEmail").attr("placeholder","isim@domain.com");
+    $("#txtAd").attr("placeholder","Adınızı Girin");
+    $("#txtSoyad").attr("placeholder","Soyadınızı Girin");
+
+
+    //text areaya her 1 karakter girildiğinde, spanKalanKarakter isimli elementin içinde
+    //500den geriye kalan karakter hakkını canlı olarak göster
+    //style değiş ekside kırmızı artıda siyah yap
+    //gonder butonu txtMesajın ıcınde 20 karakterden fazla 1 mesaj oldugunda tıklanabılır olsun
+
+    $("#txtMesaj").keydown(function()
+    {
+        if($(this).val().length>20)
+        {
+            $("#btnGonder").removeAttr("disabled");
+        }    
+        else
+        {
+            $("#btnGonder").attr("disabled","true");
+
+        }
+
+       var kalanKarakter= $("#spanKalanKarakter").text(100-$(this).val().length).text();
+       if(kalanKarakter<0)
+       {
+        $("#spanKalanKarakter").css("color","red");
+       }
+        else
+        {
+            $("#spanKalanKarakter").css("color","black");
+        }
+    });
+
+
+    //txtMesaj kısmınıa jquery ile place holder ekle ve içerisne minimum 20 karakter giriniz
+
+    $("#txtMesaj").attr("placeholder","Minimum 20 Karakter Giriniz..");
+
+    //jquery ıle gonder butonuna "btn- btn-primary" css classlarını ekleyelim
+
+    $("#btnGonder").addClass("btn btn-primary");
+    
+    //20 karakterden fazla mesaj yazıldıysa ve gonder butonuna basılıyorsa ancak ad ve soyad kısmı
+    //bos ıse textboxları ıersıne bu alanlar bos bırakılaaz seklınde kırmızı oalcak sekılde uyarı
+
+    $("#btnGonder").click(function()
+    {
+        $("[required]").attr("placeholder","Zorunlu Alan")
+        $("[required]").addClass("req");
+
+    });
+    
+      
+  </script>
+</body>
+
+</html>

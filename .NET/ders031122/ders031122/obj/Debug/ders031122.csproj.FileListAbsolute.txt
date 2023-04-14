@@ -1,0 +1,11 @@
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders031122\ders031122\bin\Debug\ders031122.exe.config
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders031122\ders031122\bin\Debug\ders031122.exe
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders031122\ders031122\bin\Debug\ders031122.pdb
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders031122\ders031122\obj\Debug\ders031122.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders031122\ders031122\obj\Debug\ders031122.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders031122\ders031122\obj\Debug\ders031122.Form1.resources
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders031122\ders031122\obj\Debug\ders031122.Properties.Resources.resources
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders031122\ders031122\obj\Debug\ders031122.csproj.GenerateResource.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders031122\ders031122\obj\Debug\ders031122.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders031122\ders031122\obj\Debug\ders031122.exe
+C:\Users\ISKUR\Desktop\farecuval\.NET\ders031122\ders031122\obj\Debug\ders031122.pdb

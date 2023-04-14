@@ -1,0 +1,8 @@
+C:\Users\ISKUR\Desktop\farecuval\.NET\BuildInMethods\BuildInMethods\bin\Debug\BuildInMethods.exe.config
+C:\Users\ISKUR\Desktop\farecuval\.NET\BuildInMethods\BuildInMethods\bin\Debug\BuildInMethods.exe
+C:\Users\ISKUR\Desktop\farecuval\.NET\BuildInMethods\BuildInMethods\bin\Debug\BuildInMethods.pdb
+C:\Users\ISKUR\Desktop\farecuval\.NET\BuildInMethods\BuildInMethods\obj\Debug\BuildInMethods.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\BuildInMethods\BuildInMethods\obj\Debug\BuildInMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\BuildInMethods\BuildInMethods\obj\Debug\BuildInMethods.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\BuildInMethods\BuildInMethods\obj\Debug\BuildInMethods.exe
+C:\Users\ISKUR\Desktop\farecuval\.NET\BuildInMethods\BuildInMethods\obj\Debug\BuildInMethods.pdb
